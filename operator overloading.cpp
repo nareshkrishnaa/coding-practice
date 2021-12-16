@@ -12,7 +12,6 @@ class complex
         complex temp ;
         temp.real=real+c2.real;
         temp.imaginary=imaginary+c2.imaginary;
-        
         return temp;
     }
 };
